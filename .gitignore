@@ -1,0 +1,9 @@
+# El repositorio publico solo lleva las imagenes de portada/, banda/, beneficios/ y pie/
+dashboard/
+_to_delete/
+_papelera/
+*.bat
+*.svg
+*/index.html
+# Originales de respaldo: no se publican
+pie/back/
