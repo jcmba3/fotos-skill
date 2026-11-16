@@ -130,6 +130,14 @@
       "descripcion": "Dos empleados revisan una tableta entre carteles de 3x2, 15 % de descuento, promoción del día y regalo por compra.",
       "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "regalo", "precios", "campañas", "tienda", "tableta"]
     },
+    "banda/banda_016.jpg": {
+      "descripcion": "Una asesora comercial explica a un cliente cómo funciona su membresía de lealtad mediante una tablet, mostrando los beneficios de un programa de fidelización integrado al punto de venta de una tienda moderna.",
+      "etiquetas": ["membresías", "fidelización de clientes", "programa de lealtad"]
+    },
+    "banda/banda_018.jpg": {
+      "descripcion": "Panorámica en tienda moderna mostrando el flujo de Membresías Lealtad: asesora explica los niveles (Silver, Gold y Diamond) en pantalla a una clienta en caja, mientras a la izquierda otro asesor presenta beneficios VIP a una compradora.",
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "proceso en tienda"]
+    },
     "beneficios/beneficios_001.jpg": {
       "descripcion": "Una clienta con bolsas de compra mira su móvil en una tienda, con la caja al fondo.",
       "etiquetas": ["cliente", "móvil", "app", "tienda", "compra", "fidelización", "pago móvil", "experiencia de compra"]
@@ -193,6 +201,10 @@
     "beneficios/beneficios_016.jpg": {
       "descripcion": "En una tienda moderna, una asesora en uniforme azul marino muestra los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) en pantalla mientras una clienta revisa su sobre informativo y móvil.",
       "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
+    },
+    "beneficios/beneficios_017.jpg": {
+      "descripcion": "Cliente satisfecha muestra su tarjeta de membresía y beneficios digitales desde el móvil en una boutique moderna, destacando recompensas, niveles de lealtad y una experiencia de compra personalizada.",
+      "etiquetas": ["membresías", "fidelización", "retail"]
     },
     "pie/pie_001.jpg": {
       "descripcion": "Dos empleados revisan una tableta junto a carteles de 3x2 y 15 % de descuento.",
