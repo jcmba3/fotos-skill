@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "nota": "Índice del banco de fotos: qué muestra cada imagen y con qué temas encaja. Lo lee el skill mba3-documentos-comerciales para proponer la foto según la información del usuario. Clave: carpeta/archivo. «descripcion» sirve también como texto alternativo de la foto; «etiquetas» son palabras o frases en minúscula (temas, escenarios, soluciones). Al añadir, renombrar, mover o borrar una foto, actualiza su entrada.",
+  "nota": "Índice del banco de fotos: qué muestra cada imagen y con qué temas encaja. Lo lee el skill mba3-documentos-comerciales para proponer la foto según la información del usuario. Clave: carpeta/archivo. «descripcion» sirve también como texto alternativo de la foto; «etiquetas» son palabras o frases en minúscula (temas, escenarios, soluciones). Lo mantiene el dashboard al subir, describir, renombrar, mover o borrar una foto.",
   "fotos": {
     "portada/portada_001.jpg": {
       "descripcion": "Vendedora atiende a un cliente en la caja de una tienda de moda mientras él paga con el móvil junto al terminal de punto de venta.",
@@ -62,7 +62,14 @@
       "descripcion": "Dos empleados revisan una tableta en un pasillo de tienda con carteles de promoción 3x2 y de descuento.",
       "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "precios", "supermercado", "tienda", "tableta", "campañas"]
     },
-
+    "portada/portada_016.jpg": {
+      "descripcion": "Fotografía corporativa en una tienda moderna donde una asesora en uniforme azul marino muestra en pantalla los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) a una clienta. La clienta sostiene su teléfono móvil para vincular su credencial digital y un sobre informativo, rodeada de material impreso y terminales de pago en un ambiente elegante que transmite confianza.",
+      "etiquetas": ["atención al cliente", "credencial digital", "experiencia de compra", "fidelización de clientes", "fotografía corporativa b2b", "membresías lealtad", "niveles de membresía", "programa de fidelización", "punto de venta (pos)", "retail moderno"]
+    },
+    "portada/portada_017.jpg": {
+      "descripcion": "Una asesora comercial presenta a un cliente los beneficios de un programa de membresías y fidelización, mostrando niveles de lealtad y recompensas digitales en un moderno punto de venta.",
+      "etiquetas": ["membresías", "fidelización de clientes", "retail"]
+    },
     "banda/banda_001.jpg": {
       "descripcion": "Una clienta mira su móvil junto a una cajera con terminal de punto de venta en una tienda.",
       "etiquetas": ["tienda", "caja", "pos", "punto de venta", "móvil", "pago móvil", "cliente", "fidelización", "app"]
@@ -123,7 +130,6 @@
       "descripcion": "Dos empleados revisan una tableta entre carteles de 3x2, 15 % de descuento, promoción del día y regalo por compra.",
       "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "regalo", "precios", "campañas", "tienda", "tableta"]
     },
-
     "beneficios/beneficios_001.jpg": {
       "descripcion": "Una clienta con bolsas de compra mira su móvil en una tienda, con la caja al fondo.",
       "etiquetas": ["cliente", "móvil", "app", "tienda", "compra", "fidelización", "pago móvil", "experiencia de compra"]
@@ -184,7 +190,10 @@
       "descripcion": "Una mujer muestra una tableta con «Promociones avanzadas» junto a un cartel con tipos de promoción.",
       "etiquetas": ["promociones", "promoción", "promociones avanzadas", "descuentos", "ofertas", "3x2", "regalo", "fidelización", "campañas", "tableta"]
     },
-
+    "beneficios/beneficios_017.jpg": {
+      "descripcion": "En una tienda moderna, una asesora en uniforme azul marino muestra los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) en pantalla mientras una clienta revisa su sobre informativo y móvil.",
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
+    },
     "pie/pie_001.jpg": {
       "descripcion": "Dos empleados revisan una tableta junto a carteles de 3x2 y 15 % de descuento.",
       "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "precios", "campañas", "tienda", "tableta"]
