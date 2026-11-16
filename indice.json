@@ -265,6 +265,14 @@
     "pie/pie_015.jpg": {
       "descripcion": "Un hombre entrega una tarjeta a una mujer en una boutique.",
       "etiquetas": ["tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente", "tienda", "boutique"]
+    },
+    "pie/pie_016.jpg": {
+      "descripcion": "Una asesora de tienda ayuda a una cliente a revisar su membresía y beneficios desde el móvil en un entorno retail moderno, destacando una atención personalizada y una experiencia de fidelización ágil y cercana.",
+      "etiquetas": ["membresías", "fidelización", "retail"]
+    },
+    "pie/pie_017.jpg": {
+      "descripcion": "En una tienda moderna, un asesor en uniforme azul marino atiende en el mostrador a un cliente revisando los niveles del programa Membresías Lealtad, mientras a la izquierda otro asesor muestra beneficios VIP a una compradora.",
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
     }
   }
 }
