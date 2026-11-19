@@ -1,9 +1,10 @@
-# El repositorio publico solo lleva las imagenes de portada/, banda/, beneficios/ y pie/
+# El repositorio publico solo lleva las imagenes de portada/, banda/, beneficios/ y pie/, y los logos de logos/
 dashboard/
 _to_delete/
 _papelera/
 *.bat
 *.svg
+!logos/*.svg
 */index.html
 # Originales de respaldo: no se publican
 pie/back/
