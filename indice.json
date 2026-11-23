@@ -70,6 +70,10 @@
       "descripcion": "Una asesora comercial presenta a un cliente los beneficios de un programa de membresías y fidelización, mostrando niveles de lealtad y recompensas digitales en un moderno punto de venta.",
       "etiquetas": ["membresías", "fidelización de clientes", "retail"]
     },
+    "portada/portada_018.jpg": {
+      "descripcion": "Un vendedor en la caja y una asesora sonríen, listos para atender, en una tienda de ferretería y tecnología con el terminal de punto de venta en primer plano.",
+      "etiquetas": ["faq", "faqs", "preguntas frecuentes", "dudas", "ayuda", "soporte", "atención al cliente", "tienda", "retail", "pos", "punto de venta"]
+    },
     "banda/banda_001.jpg": {
       "descripcion": "Una clienta mira su móvil junto a una cajera con terminal de punto de venta en una tienda.",
       "etiquetas": ["tienda", "caja", "pos", "punto de venta", "móvil", "pago móvil", "cliente", "fidelización", "app"]
