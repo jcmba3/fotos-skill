@@ -405,6 +405,38 @@
     "pie/pie_028.jpg": {
       "descripcion": "Dos directivos comentan en una tableta los resultados de la empresa, en una oficina ejecutiva.",
       "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "resultados", "tableta", "oficina"]
+    },
+    "portada/portada_019.jpg": {
+      "descripcion": "En la caja de un supermercado, una clienta consulta en el móvil su saldo a favor mientras la cajera de uniforme azul marino lo aplica en el punto de venta; al fondo, frutas y pasillos.",
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "caja", "pos", "punto de venta", "supermercado", "fidelización", "cliente"]
+    },
+    "portada/portada_015.jpg": {
+      "descripcion": "Un gerente comercial y una encargada de tienda revisan en una tableta una campaña junto a una exhibición de pinturas con cabeceras promocionales de iconos.",
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "precios", "tableta", "tienda", "pinturas", "ferretería"]
+    },
+    "banda/banda_015.jpg": {
+      "descripcion": "En una tienda de hogar, una gerente y un encargado revisan en la tableta las promociones, entre estanterías con cabeceras de colores con iconos de regalo, etiqueta y estrella.",
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "regalo", "tableta", "tienda", "hogar", "decoración"]
+    },
+    "portada/portada_003.jpg": {
+      "descripcion": "Una jefa de compras y un analista revisan en un monitor el catálogo de prendas y sus ventas, con muestras de tela, lector de códigos e impresora de etiquetas; al fondo, el almacén.",
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "almacén"]
+    },
+    "banda/banda_003.jpg": {
+      "descripcion": "Área de planificación de una cadena de moda: un analista y una jefa de compras comentan el catálogo y las ventas en dos monitores mientras una empleada ordena prendas.",
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "surtido"]
+    },
+    "pie/pie_003.jpg": {
+      "descripcion": "Una jefa de compras señala en el monitor el catálogo de prendas a un analista, con muestras de tela, lector de códigos e impresora de etiquetas sobre la mesa.",
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "back office", "oficina", "moda"]
+    },
+    "pie/pie_012.jpg": {
+      "descripcion": "En el muelle de recepción de una bodega, una operaria escanea la etiqueta de una caja mientras su compañero registra la entrada en la tableta; al fondo, un camión.",
+      "etiquetas": ["control de almacenes wms", "wms", "bodega", "almacén", "recepción", "recepción de mercancía", "muelle", "escáner", "inventario", "logística"]
+    },
+    "pie/pie_014.jpg": {
+      "descripcion": "En la caja de una tienda de moda, la cajera aplica la promoción a una clienta y le entrega su prenda; sobre el mostrador, una tarjeta con iconos de descuento y regalo.",
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "regalo", "caja", "pos", "cobro", "tienda", "moda", "cliente"]
     }
   }
 }
