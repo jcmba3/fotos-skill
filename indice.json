@@ -437,6 +437,10 @@
     "pie/pie_014.jpg": {
       "descripcion": "En la caja de una tienda de moda, la cajera aplica la promoción a una clienta y le entrega su prenda; sobre el mostrador, una tarjeta con iconos de descuento y regalo.",
       "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "regalo", "caja", "pos", "cobro", "tienda", "moda", "cliente"]
+    },
+    "pie/pie_026.jpg": {
+      "descripcion": "Móvil apoyado en el mostrador de una tienda de moda con el tablero de ventas del vendedor: ventas del día, pedidos, tendencia de la semana y productos más vendidos.",
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "tablero", "ventas del día", "indicadores", "productos más vendidos", "vendedor", "móvil", "app", "tienda", "moda"]
     }
   }
 }
