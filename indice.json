@@ -277,6 +277,170 @@
     "pie/pie_017.jpg": {
       "descripcion": "En una tienda moderna, un asesor en uniforme azul marino atiende en el mostrador a un cliente revisando los niveles del programa Membresías Lealtad, mientras a la izquierda otro asesor muestra beneficios VIP a una compradora.",
       "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
+    },
+    "pie/pie_018.jpg": {
+      "descripcion": "En la caja de una tienda de moda, la cajera escanea un producto mientras el cliente acerca el móvil al datáfono para pagar; se ven la pantalla del punto de venta y la impresora de tickets.",
+      "etiquetas": ["punto de venta", "pos", "caja", "cobro", "pago móvil", "escáner", "impresora de tickets", "datáfono", "tienda", "moda", "cliente"]
+    },
+    "portada/portada_018.jpg": {
+      "descripcion": "Una vendedora visita una ferretería y muestra al dueño el catálogo en una tableta mientras preparan un pedido sobre el mostrador.",
+      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "catálogo", "pedido", "cotización", "ferretería", "distribución", "cliente"]
+    },
+    "banda/banda_018.jpg": {
+      "descripcion": "En la bodega de un distribuidor, la vendedora con tableta recorre las estanterías con el cliente, que anota lo que necesita.",
+      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "pedido", "bodega", "distribución", "inventario", "cliente"]
+    },
+    "beneficios/beneficios_018.jpg": {
+      "descripcion": "Vendedora de ruta, de pie a la entrada del negocio de un cliente, revisa en la tableta un pedido confirmado; al fondo, su furgoneta.",
+      "etiquetas": ["ventas móviles", "vendedor", "vendedor de ruta", "preventa", "tableta", "pedido", "movilidad", "visita comercial"]
+    },
+    "pie/pie_019.jpg": {
+      "descripcion": "Primer plano de una vendedora que muestra la tableta a un cliente sobre un escritorio para confirmar el pedido.",
+      "etiquetas": ["ventas móviles", "vendedor", "tableta", "pedido", "confirmación de pedido", "visita comercial", "cliente"]
+    },
+    "portada/portada_019.jpg": {
+      "descripcion": "En la caja de un supermercado, una clienta muestra en el móvil su saldo a favor y la cajera lo aplica en la pantalla del punto de venta.",
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "caja", "pos", "supermercado", "fidelización", "cliente"]
+    },
+    "banda/banda_019.jpg": {
+      "descripcion": "Zona de cajas de un supermercado con varios clientes pagando; en primer plano, una clienta paga con el monedero desde el móvil.",
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "cajas", "supermercado", "cobro", "cliente"]
+    },
+    "beneficios/beneficios_019.jpg": {
+      "descripcion": "Clienta con bolsas de compra mira sonriente en el móvil el saldo que acaba de acumular, en el pasillo de un supermercado.",
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "fidelización", "app", "móvil", "cliente", "supermercado"]
+    },
+    "pie/pie_020.jpg": {
+      "descripcion": "Primer plano de un móvil con la pantalla del monedero electrónico junto a un datáfono, sobre el mostrador de un supermercado.",
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "datáfono", "pago sin contacto", "cobro"]
+    },
+    "portada/portada_020.jpg": {
+      "descripcion": "Una asesora consulta en la tableta la ficha de una clienta mientras la atiende en el mostrador de una tienda de moda y accesorios.",
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "venta asistida", "asesoría", "tableta", "tienda", "moda", "cliente"]
+    },
+    "banda/banda_020.jpg": {
+      "descripcion": "Equipo comercial junto a la tienda revisa en dos monitores el embudo de oportunidades y el seguimiento de clientes.",
+      "etiquetas": ["advanced crm", "crm", "embudo de ventas", "oportunidades", "seguimiento de clientes", "equipo comercial", "oficina", "gestión de clientes"]
+    },
+    "beneficios/beneficios_020.jpg": {
+      "descripcion": "Asesora de pie en el piso de venta de una tienda de moda, consultando en la tableta el perfil de un cliente.",
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "asesoría", "venta asistida", "tableta", "tienda", "moda"]
+    },
+    "pie/pie_021.jpg": {
+      "descripcion": "Dos asesores revisan en un portátil la ficha de una clienta, con su historial de compras y la agenda de seguimiento.",
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "seguimiento de clientes", "agenda", "portátil", "asesoría"]
+    },
+    "portada/portada_021.jpg": {
+      "descripcion": "Una clienta en su escritorio descarga su factura en el portátil con el ticket de compra en la mano.",
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "facturación", "ticket", "portátil", "cliente", "oficina"]
+    },
+    "banda/banda_021.jpg": {
+      "descripcion": "Una clienta sale de la caja de una tienda mostrando su ticket con código QR para autofacturar, sin esperar en la fila.",
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "caja", "tienda", "cliente"]
+    },
+    "beneficios/beneficios_021.jpg": {
+      "descripcion": "Clienta de pie en una tienda escanea con el móvil el código QR de su ticket para generar la factura.",
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "cliente", "tienda"]
+    },
+    "pie/pie_022.jpg": {
+      "descripcion": "Primer plano del móvil con la factura generada junto al ticket con código QR, sobre el mostrador de una tienda.",
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "facturación"]
+    },
+    "portada/portada_022.jpg": {
+      "descripcion": "En la oficina central, dos directivos revisan en una pantalla grande el mapa de la red de tiendas y los indicadores de cada franquicia.",
+      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "cadena", "oficina central", "indicadores", "tablero", "dirección"]
+    },
+    "banda/banda_022.jpg": {
+      "descripcion": "Oficina central con un equipo frente a varios monitores que coordina el mapa de sucursales, el catálogo, los precios y las promociones de toda la red.",
+      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "oficina central", "precios", "promociones", "catálogo", "equipo"]
+    },
+    "beneficios/beneficios_022.jpg": {
+      "descripcion": "Supervisora de franquicias con tableta a la entrada de una tienda de la cadena, revisando el estado de esa sucursal.",
+      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "cadena", "tableta", "tienda"]
+    },
+    "pie/pie_023.jpg": {
+      "descripcion": "El supervisor de la cadena y la encargada de una franquicia revisan juntos la tableta en el mostrador de la tienda.",
+      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "encargada de tienda", "tableta", "tienda"]
+    },
+    "portada/portada_023.jpg": {
+      "descripcion": "Una clienta compra desde el móvil en la tienda online, sentada en un sofá; al fondo, la tienda física de la misma marca.",
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "comercio electrónico", "tienda online", "omnicanal", "compra en línea", "móvil", "cliente", "moda"]
+    },
+    "banda/banda_023.jpg": {
+      "descripcion": "Zona de preparación de pedidos web en la trastienda: una operaria empaca los pedidos online junto a la impresora de etiquetas de envío.",
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "pedidos online", "preparación de pedidos", "empaque", "etiquetas de envío", "logística", "bodega", "despacho"]
+    },
+    "beneficios/beneficios_023.jpg": {
+      "descripcion": "Una clienta recoge en el mostrador de la tienda el pedido que compró en línea.",
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "click and collect", "recogida en tienda", "omnicanal", "pedidos online", "entrega", "cliente", "tienda"]
+    },
+    "pie/pie_024.jpg": {
+      "descripcion": "Portátil con la tienda online abierta en la ficha de unos audífonos, con el producto real al lado sobre el escritorio.",
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "tienda online", "catálogo", "ficha de producto", "carrito", "portátil", "compra en línea"]
+    },
+    "portada/portada_024.jpg": {
+      "descripcion": "Equipo de TI en una sala de reuniones revisa en una pantalla grande el esquema de los sistemas conectados a la plataforma central.",
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "sistemas conectados", "ti", "tecnología", "arquitectura", "equipo"]
+    },
+    "banda/banda_024.jpg": {
+      "descripcion": "Área técnica con varios puestos y monitores que muestran código, flujos de datos entre sistemas y el estado de las integraciones.",
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "flujos de datos", "desarrollo", "ti", "monitoreo", "tecnología"]
+    },
+    "beneficios/beneficios_024.jpg": {
+      "descripcion": "Desarrolladora de pie explica en una pantalla el diagrama de una integración, con su portátil abierto en la mesa.",
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "desarrollo", "desarrolladora", "ti", "tecnología"]
+    },
+    "pie/pie_025.jpg": {
+      "descripcion": "Dos técnicos revisan en un portátil la respuesta correcta de una llamada a una API.",
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "pruebas", "desarrollo", "ti", "portátil"]
+    },
+    "portada/portada_025.jpg": {
+      "descripcion": "Un vendedor en el piso de una tienda de moda mira en el móvil el avance de su meta del día; al fondo, clientes comprando.",
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedor", "móvil", "app", "tienda", "moda"]
+    },
+    "banda/banda_025.jpg": {
+      "descripcion": "Al inicio de la jornada, el equipo de vendedores revisa en sus móviles las metas del día junto al mostrador de la tienda.",
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "equipo de ventas", "vendedores", "móvil", "app", "tienda"]
+    },
+    "beneficios/beneficios_025.jpg": {
+      "descripcion": "Vendedora sonriente mira en el móvil su meta cumplida, en el piso de venta de una tienda de moda.",
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedora", "móvil", "app", "tienda"]
+    },
+    "pie/pie_026.jpg": {
+      "descripcion": "Móvil apoyado en el mostrador con el tablero de ventas del vendedor: avance de la meta diaria, tendencia de la semana y productos más vendidos.",
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "tablero", "metas de venta", "indicadores", "móvil", "app"]
+    },
+    "portada/portada_026.jpg": {
+      "descripcion": "Gerente de tienda consulta en la tableta los indicadores de su sucursal mientras la tienda atiende a sus clientes al fondo.",
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda", "moda"]
+    },
+    "banda/banda_026.jpg": {
+      "descripcion": "El gerente y su supervisora revisan la tableta junto a la caja, frente a un monitor con el tablero de la tienda, mientras el equipo atiende.",
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "supervisión", "tablero", "indicadores", "inventario", "tienda"]
+    },
+    "beneficios/beneficios_026.jpg": {
+      "descripcion": "Gerente de tienda de pie en un pasillo, revisando en la tableta los indicadores de su sucursal.",
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda"]
+    },
+    "pie/pie_027.jpg": {
+      "descripcion": "Gerente y vendedora comentan en la tableta los resultados del día, en el mostrador de la tienda.",
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "resultados", "indicadores", "tableta", "tienda", "equipo"]
+    },
+    "portada/portada_027.jpg": {
+      "descripcion": "Directivos en una sala de juntas frente a una pantalla grande con los tableros de toda la empresa: ventas por región y tendencias.",
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "tablero", "indicadores", "ventas por región", "sala de juntas"]
+    },
+    "banda/banda_027.jpg": {
+      "descripcion": "Reunión de dirección con portátiles en torno a una mesa y una pantalla con gráficos consolidados de la empresa.",
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "reunión", "gráficos", "resultados consolidados", "sala de juntas"]
+    },
+    "beneficios/beneficios_027.jpg": {
+      "descripcion": "Directora de pie en una oficina ejecutiva, revisando en la tableta los indicadores de toda la empresa.",
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directora", "indicadores", "tableta", "oficina"]
+    },
+    "pie/pie_028.jpg": {
+      "descripcion": "Dos directivos comentan en una tableta los resultados de la empresa, en una oficina ejecutiva.",
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "resultados", "tableta", "oficina"]
     }
   }
 }
