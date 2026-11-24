@@ -10,10 +10,6 @@
       "descripcion": "Vendedora entrega una tarjeta a un cliente en el mostrador de una boutique, junto al terminal de punto de venta.",
       "etiquetas": ["tienda", "boutique", "mostrador", "pos", "punto de venta", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"]
     },
-    "portada/portada_003.jpg": {
-      "descripcion": "Dos personas revisan el catálogo de productos en varios monitores, en un área de planificación con lector de códigos e impresora de etiquetas.",
-      "etiquetas": ["oficina", "planificación", "catálogo", "productos", "inventario", "compras", "erp", "back office", "administración", "etiquetas", "surtido"]
-    },
     "portada/portada_004.jpg": {
       "descripcion": "Un hombre y una mujer revisan en un monitor la ficha de un producto, sentados en un escritorio con portátil e impresora, con la tienda al fondo.",
       "etiquetas": ["oficina", "gestión", "catálogo", "productos", "erp", "administración", "back office", "configuración", "maestros", "precios"]
@@ -58,10 +54,6 @@
       "descripcion": "Dos hombres revisan una tableta en una sala de exhibición de pisos y revestimientos.",
       "etiquetas": ["sala de exhibición", "showroom", "materiales", "pisos", "cerámica", "revestimientos", "construcción", "tableta", "asesoría", "cotización"]
     },
-    "portada/portada_015.jpg": {
-      "descripcion": "Dos empleados revisan una tableta en un pasillo de tienda con carteles de promoción 3x2 y de descuento.",
-      "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "precios", "supermercado", "tienda", "tableta", "campañas"]
-    },
     "portada/portada_016.jpg": {
       "descripcion": "Fotografía corporativa en una tienda moderna donde una asesora en uniforme azul marino muestra en pantalla los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) a una clienta. La clienta sostiene su teléfono móvil para vincular su credencial digital y un sobre informativo, rodeada de material impreso y terminales de pago en un ambiente elegante que transmite confianza.",
       "etiquetas": ["atención al cliente", "credencial digital", "experiencia de compra", "fidelización de clientes", "fotografía corporativa b2b", "membresías lealtad", "niveles de membresía", "programa de fidelización", "punto de venta (pos)", "retail moderno"]
@@ -81,10 +73,6 @@
     "banda/banda_002.jpg": {
       "descripcion": "Vendedora entrega una tarjeta a un cliente en el mostrador de una boutique, con terminal de punto de venta y regalos envueltos.",
       "etiquetas": ["tienda", "boutique", "mostrador", "pos", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"]
-    },
-    "banda/banda_003.jpg": {
-      "descripcion": "Equipo en un área de planificación con monitores que muestran el catálogo, mientras una empleada ordena un estante.",
-      "etiquetas": ["oficina", "planificación", "catálogo", "productos", "inventario", "compras", "erp", "back office", "surtido", "etiquetas"]
     },
     "banda/banda_004.jpg": {
       "descripcion": "Una mujer señala en un monitor la ficha de un producto mientras un hombre teclea; al fondo, pantallas con gráficos.",
@@ -129,10 +117,6 @@
     "banda/banda_014.jpg": {
       "descripcion": "Empleados y clientes con tabletas en una tienda con carteles de oferta 3x2 y promociones.",
       "etiquetas": ["promociones", "promoción", "ofertas", "3x2", "descuentos", "tienda", "tableta", "campañas", "precios"]
-    },
-    "banda/banda_015.jpg": {
-      "descripcion": "Dos empleados revisan una tableta entre carteles de 3x2, 15 % de descuento, promoción del día y regalo por compra.",
-      "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "regalo", "precios", "campañas", "tienda", "tableta"]
     },
     "banda/banda_016.jpg": {
       "descripcion": "Una asesora comercial explica a un cliente cómo funciona su membresía de lealtad mediante una tablet, mostrando los beneficios de un programa de fidelización integrado al punto de venta de una tienda moderna.",
@@ -218,10 +202,6 @@
       "descripcion": "Una pareja usa la pantalla táctil de un kiosco de autoservicio en una tienda de electrónica.",
       "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "clientes", "tienda", "electrónica", "autoatención"]
     },
-    "pie/pie_003.jpg": {
-      "descripcion": "Dos personas revisan el catálogo en monitores en un área de planificación con lector e impresora de etiquetas.",
-      "etiquetas": ["oficina", "planificación", "catálogo", "productos", "inventario", "compras", "erp", "back office", "surtido"]
-    },
     "pie/pie_004.jpg": {
       "descripcion": "Un hombre y una mujer revisan un portátil; al fondo, una pantalla con gráficos de ventas.",
       "etiquetas": ["analítica", "reportes", "indicadores", "bi", "inteligencia de negocios", "tablero", "dashboard", "oficina", "portátil", "gestión", "ventas"]
@@ -254,17 +234,9 @@
       "descripcion": "Una clienta recoge el ticket que acaba de imprimir el kiosco de autoservicio de mostrador, tras hacer su pedido en la pantalla táctil.",
       "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "autoatención", "pantalla táctil", "pedido", "ticket", "impresora de tickets", "cliente", "cafetería", "tienda"]
     },
-    "pie/pie_012.jpg": {
-      "descripcion": "Dos operarios revisan una tableta y un lector portátil en una bodega con cajas.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "tableta", "lector"]
-    },
     "pie/pie_013.jpg": {
       "descripcion": "Dos operarios con chaleco revisan una tableta junto a cajas en un almacén de estanterías altas.",
       "etiquetas": ["almacén", "bodega", "logística", "picking", "inventario", "wms", "tableta", "distribución", "centro de distribución"]
-    },
-    "pie/pie_014.jpg": {
-      "descripcion": "Un hombre y una mujer comentan lo que ven en un portátil; al fondo, una pantalla con gráficos.",
-      "etiquetas": ["analítica", "reportes", "indicadores", "bi", "inteligencia de negocios", "tablero", "dashboard", "oficina", "portátil", "gestión"]
     },
     "pie/pie_015.jpg": {
       "descripcion": "Un hombre entrega una tarjeta a una mujer en una boutique.",
@@ -297,10 +269,6 @@
     "pie/pie_019.jpg": {
       "descripcion": "Primer plano de una vendedora que muestra la tableta a un cliente sobre un escritorio para confirmar el pedido.",
       "etiquetas": ["ventas móviles", "vendedor", "tableta", "pedido", "confirmación de pedido", "visita comercial", "cliente"]
-    },
-    "portada/portada_019.jpg": {
-      "descripcion": "En la caja de un supermercado, una clienta muestra en el móvil su saldo a favor y la cajera lo aplica en la pantalla del punto de venta.",
-      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "caja", "pos", "supermercado", "fidelización", "cliente"]
     },
     "banda/banda_019.jpg": {
       "descripcion": "Zona de cajas de un supermercado con varios clientes pagando; en primer plano, una clienta paga con el monedero desde el móvil.",
@@ -405,10 +373,6 @@
     "beneficios/beneficios_025.jpg": {
       "descripcion": "Vendedora sonriente mira en el móvil su meta cumplida, en el piso de venta de una tienda de moda.",
       "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedora", "móvil", "app", "tienda"]
-    },
-    "pie/pie_026.jpg": {
-      "descripcion": "Móvil apoyado en el mostrador de una tienda de moda con la app de ventas del vendedor abierta.",
-      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "tablero", "metas de venta", "indicadores", "móvil", "app"]
     },
     "portada/portada_026.jpg": {
       "descripcion": "Gerente de tienda consulta en la tableta los indicadores de su sucursal mientras la tienda atiende a sus clientes al fondo.",
