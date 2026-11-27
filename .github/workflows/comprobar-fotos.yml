@@ -1,0 +1,16 @@
+name: Comprobar fotos
+# Rechaza fotos por debajo del mínimo de resolución (portada/ y temas/ < 2400 px, beneficios/ < 800 px)
+# y comprueba que indice.json guarda el ancho y el alto reales de cada foto.
+on:
+  push:
+  pull_request:
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python comprobar_fotos.py

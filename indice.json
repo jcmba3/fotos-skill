@@ -4,443 +4,663 @@
   "fotos": {
     "portada/portada_001.jpg": {
       "descripcion": "Vendedora atiende a un cliente en la caja de una tienda de moda mientras él paga con el móvil junto al terminal de punto de venta.",
-      "etiquetas": ["tienda", "retail", "moda", "caja", "pos", "punto de venta", "pago", "pago móvil", "cobro", "cliente", "venta"]
+      "etiquetas": ["tienda", "retail", "moda", "caja", "pos", "punto de venta", "pago", "pago móvil", "cobro", "cliente", "venta"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_002.jpg": {
       "descripcion": "Vendedora entrega una tarjeta a un cliente en el mostrador de una boutique, junto al terminal de punto de venta.",
-      "etiquetas": ["tienda", "boutique", "mostrador", "pos", "punto de venta", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"]
+      "etiquetas": ["tienda", "boutique", "mostrador", "pos", "punto de venta", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_004.jpg": {
       "descripcion": "Un hombre y una mujer revisan en un monitor la ficha de un producto, sentados en un escritorio con portátil e impresora, con la tienda al fondo.",
-      "etiquetas": ["oficina", "gestión", "catálogo", "productos", "erp", "administración", "back office", "configuración", "maestros", "precios"]
+      "etiquetas": ["oficina", "gestión", "catálogo", "productos", "erp", "administración", "back office", "configuración", "maestros", "precios"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_005.jpg": {
       "descripcion": "Cajero atiende a una clienta en la caja de una tienda de moda, con terminal de punto de venta y lector de códigos.",
-      "etiquetas": ["caja", "pos", "punto de venta", "cajero", "tienda", "retail", "moda", "cliente", "cobro", "venta"]
+      "etiquetas": ["caja", "pos", "punto de venta", "cajero", "tienda", "retail", "moda", "cliente", "cobro", "venta"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_006.jpg": {
       "descripcion": "Cajera cobra con tarjeta a una clienta en una tienda, con terminal de punto de venta y datáfono.",
-      "etiquetas": ["caja", "pos", "punto de venta", "pago", "pago con tarjeta", "datáfono", "cobro", "tienda", "retail", "cliente", "medios de pago"]
+      "etiquetas": ["caja", "pos", "punto de venta", "pago", "pago con tarjeta", "datáfono", "cobro", "tienda", "retail", "cliente", "medios de pago"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_007.jpg": {
       "descripcion": "Dos operarios revisan una tableta y un lector portátil en una bodega con cajas, un portátil con el inventario e impresoras de etiquetas.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "tableta", "lector", "etiquetas", "distribución"]
+      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "tableta", "lector", "etiquetas", "distribución"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_008.jpg": {
       "descripcion": "Dos operarios con chaleco reflectante revisan una tableta y un lector de códigos junto a una caja, en un almacén de estanterías altas.",
-      "etiquetas": ["almacén", "bodega", "logística", "picking", "inventario", "wms", "lector", "tableta", "distribución", "despacho", "centro de distribución"]
+      "etiquetas": ["almacén", "bodega", "logística", "picking", "inventario", "wms", "lector", "tableta", "distribución", "despacho", "centro de distribución"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_009.jpg": {
       "descripcion": "Una pareja consulta una pantalla de autoservicio en una tienda de moda y calzado.",
-      "etiquetas": ["tienda", "moda", "calzado", "clientes", "pantalla de consulta", "consulta de precios", "catálogo", "autoservicio", "omnicanal", "experiencia de compra"]
+      "etiquetas": ["tienda", "moda", "calzado", "clientes", "pantalla de consulta", "consulta de precios", "catálogo", "autoservicio", "omnicanal", "experiencia de compra"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_010.jpg": {
       "descripcion": "Una pareja usa un kiosco de autoservicio con pantalla táctil vertical en una tienda.",
-      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "tienda", "clientes", "catálogo", "pedido", "autoatención", "experiencia de compra"]
+      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "tienda", "clientes", "catálogo", "pedido", "autoatención", "experiencia de compra"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_011.jpg": {
       "descripcion": "Vendedora muestra el móvil a un cliente que duda entre productos en una tienda de hogar y electrodomésticos.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "hogar", "electrodomésticos", "cliente", "asesoría", "vendedor"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "hogar", "electrodomésticos", "cliente", "asesoría", "vendedor"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_012.jpg": {
       "descripcion": "Vendedora con un móvil atiende a una clienta en el piso de venta de una tienda de moda.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "moda", "cliente", "asesoría", "vendedor", "piso de venta"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "moda", "cliente", "asesoría", "vendedor", "piso de venta"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_013.jpg": {
       "descripcion": "Dos ejecutivos revisan una tableta junto a una mesa con catálogos, en una sala de exhibición de materiales y acabados.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "ferretería", "tableta", "catálogo", "asesoría", "cotización", "proyecto"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "ferretería", "tableta", "catálogo", "asesoría", "cotización", "proyecto"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_014.jpg": {
       "descripcion": "Dos hombres revisan una tableta en una sala de exhibición de pisos y revestimientos.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "pisos", "cerámica", "revestimientos", "construcción", "tableta", "asesoría", "cotización"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "pisos", "cerámica", "revestimientos", "construcción", "tableta", "asesoría", "cotización"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_016.jpg": {
       "descripcion": "Fotografía corporativa en una tienda moderna donde una asesora en uniforme azul marino muestra en pantalla los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) a una clienta. La clienta sostiene su teléfono móvil para vincular su credencial digital y un sobre informativo, rodeada de material impreso y terminales de pago en un ambiente elegante que transmite confianza.",
-      "etiquetas": ["atención al cliente", "credencial digital", "experiencia de compra", "fidelización de clientes", "fotografía corporativa b2b", "membresías lealtad", "niveles de membresía", "programa de fidelización", "punto de venta (pos)", "retail moderno"]
+      "etiquetas": ["atención al cliente", "credencial digital", "experiencia de compra", "fidelización de clientes", "fotografía corporativa b2b", "membresías lealtad", "niveles de membresía", "programa de fidelización", "punto de venta (pos)", "retail moderno"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_017.jpg": {
       "descripcion": "Una asesora comercial presenta a un cliente los beneficios de un programa de membresías y fidelización, mostrando niveles de lealtad y recompensas digitales en un moderno punto de venta.",
-      "etiquetas": ["membresías", "fidelización de clientes", "retail"]
+      "etiquetas": ["membresías", "fidelización de clientes", "retail"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "temas/faq_001.jpg": {
       "descripcion": "Un vendedor en la caja y una asesora sonríen, listos para atender, en una tienda de ferretería y tecnología con el terminal de punto de venta en primer plano. Se pone sola en las presentaciones de FAQs o Preguntas frecuentes; en las demás solo si se elige a mano.",
-      "etiquetas": ["faq", "faqs", "preguntas frecuentes"]
+      "etiquetas": ["faq", "faqs", "preguntas frecuentes"],
+      "ancho": 2550,
+      "alto": 2550
     },
     "banda/banda_001.jpg": {
       "descripcion": "Una clienta mira su móvil junto a una cajera con terminal de punto de venta en una tienda.",
-      "etiquetas": ["tienda", "caja", "pos", "punto de venta", "móvil", "pago móvil", "cliente", "fidelización", "app"]
+      "etiquetas": ["tienda", "caja", "pos", "punto de venta", "móvil", "pago móvil", "cliente", "fidelización", "app"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_002.jpg": {
       "descripcion": "Vendedora entrega una tarjeta a un cliente en el mostrador de una boutique, con terminal de punto de venta y regalos envueltos.",
-      "etiquetas": ["tienda", "boutique", "mostrador", "pos", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"]
+      "etiquetas": ["tienda", "boutique", "mostrador", "pos", "tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_004.jpg": {
       "descripcion": "Una mujer señala en un monitor la ficha de un producto mientras un hombre teclea; al fondo, pantallas con gráficos.",
-      "etiquetas": ["oficina", "gestión", "catálogo", "productos", "erp", "analítica", "reportes", "indicadores", "administración", "configuración"]
+      "etiquetas": ["oficina", "gestión", "catálogo", "productos", "erp", "analítica", "reportes", "indicadores", "administración", "configuración"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_005.jpg": {
       "descripcion": "Cajera escanea una prenda mientras un cliente paga con tarjeta en la caja de una tienda de moda.",
-      "etiquetas": ["caja", "pos", "punto de venta", "lector", "pago", "pago con tarjeta", "cobro", "tienda", "moda", "cliente", "venta"]
+      "etiquetas": ["caja", "pos", "punto de venta", "lector", "pago", "pago con tarjeta", "cobro", "tienda", "moda", "cliente", "venta"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_006.jpg": {
       "descripcion": "Vista amplia de la zona de cajas de una tienda: una empleada con tableta y un cajero que atiende a una clienta.",
-      "etiquetas": ["cajas", "caja", "pos", "punto de venta", "tienda", "retail", "tableta", "cliente", "operación de tienda"]
+      "etiquetas": ["cajas", "caja", "pos", "punto de venta", "tienda", "retail", "tableta", "cliente", "operación de tienda"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_007.jpg": {
       "descripcion": "Puesto de trabajo en una bodega: una mujer en el ordenador y dos operarios con tableta entre cajas e impresoras de etiquetas.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "etiquetas", "tableta", "distribución"]
+      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "etiquetas", "tableta", "distribución"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_008.jpg": {
       "descripcion": "Una pareja elige calzado en la pantalla táctil de un kiosco de autoservicio en una tienda.",
-      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "calzado", "clientes", "tienda", "catálogo", "autoatención"]
+      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "calzado", "clientes", "tienda", "catálogo", "autoatención"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_009.jpg": {
       "descripcion": "Una empleada con tableta y una pareja ante una pantalla de consulta en una tienda de moda.",
-      "etiquetas": ["tienda", "moda", "pantalla de consulta", "consulta de precios", "autoservicio", "tableta", "clientes", "omnicanal"]
+      "etiquetas": ["tienda", "moda", "pantalla de consulta", "consulta de precios", "autoservicio", "tableta", "clientes", "omnicanal"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_010.jpg": {
       "descripcion": "Vendedora con un móvil atiende a una clienta en una tienda amplia con varios compradores.",
-      "etiquetas": ["tienda", "retail", "venta asistida", "móvil", "movilidad", "clientes", "piso de venta", "vendedor"]
+      "etiquetas": ["tienda", "retail", "venta asistida", "móvil", "movilidad", "clientes", "piso de venta", "vendedor"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_011.jpg": {
       "descripcion": "Vendedora muestra el móvil a un cliente pensativo en una tienda de hogar y electrodomésticos.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "hogar", "electrodomésticos", "cliente", "asesoría"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "tienda", "hogar", "electrodomésticos", "cliente", "asesoría"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_012.jpg": {
       "descripcion": "Dos hombres revisan una tableta junto a muestras de pisos y revestimientos en una sala de exhibición.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "pisos", "cerámica", "revestimientos", "construcción", "tableta", "asesoría", "cotización"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "pisos", "cerámica", "revestimientos", "construcción", "tableta", "asesoría", "cotización"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_013.jpg": {
       "descripcion": "Varios grupos de asesores y clientes revisan tabletas y catálogos en una sala de exhibición de materiales y acabados.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "ferretería", "tableta", "catálogo", "asesoría", "cotización", "equipo"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "ferretería", "tableta", "catálogo", "asesoría", "cotización", "equipo"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_014.jpg": {
       "descripcion": "Empleados y clientes con tabletas en una tienda con carteles de oferta 3x2 y promociones.",
-      "etiquetas": ["promociones", "promoción", "ofertas", "3x2", "descuentos", "tienda", "tableta", "campañas", "precios"]
+      "etiquetas": ["promociones", "promoción", "ofertas", "3x2", "descuentos", "tienda", "tableta", "campañas", "precios"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_016.jpg": {
       "descripcion": "Una asesora comercial explica a un cliente cómo funciona su membresía de lealtad mediante una tablet, mostrando los beneficios de un programa de fidelización integrado al punto de venta de una tienda moderna.",
-      "etiquetas": ["membresías", "fidelización de clientes", "programa de lealtad"]
+      "etiquetas": ["membresías", "fidelización de clientes", "programa de lealtad"],
+      "ancho": 2125,
+      "alto": 783
     },
     "banda/banda_017.jpg": {
       "descripcion": "Panorámica en tienda moderna mostrando el flujo de Membresías Lealtad: asesora explica los niveles (Silver, Gold y Diamond) en pantalla a una clienta en caja, mientras a la izquierda otro asesor presenta beneficios VIP a una compradora.",
-      "etiquetas": ["membresías lealtad", "fidelización de clientes", "proceso en tienda"]
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "proceso en tienda"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_001.jpg": {
       "descripcion": "Una clienta con bolsas de compra mira su móvil en una tienda, con la caja al fondo.",
-      "etiquetas": ["cliente", "móvil", "app", "tienda", "compra", "fidelización", "pago móvil", "experiencia de compra"]
+      "etiquetas": ["cliente", "móvil", "app", "tienda", "compra", "fidelización", "pago móvil", "experiencia de compra"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_002.jpg": {
       "descripcion": "Una clienta sostiene una tarjeta en una boutique.",
-      "etiquetas": ["tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente", "tienda", "boutique"]
+      "etiquetas": ["tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente", "tienda", "boutique"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_003.jpg": {
       "descripcion": "Una mujer trabaja en un escritorio con el catálogo de productos en el monitor, un lector portátil y muestras impresas.",
-      "etiquetas": ["oficina", "catálogo", "productos", "inventario", "planificación", "erp", "compras", "back office", "surtido"]
+      "etiquetas": ["oficina", "catálogo", "productos", "inventario", "planificación", "erp", "compras", "back office", "surtido"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_004.jpg": {
       "descripcion": "Una mujer sonríe ante su portátil en un escritorio con tableta, lector de códigos e impresora de etiquetas.",
-      "etiquetas": ["oficina", "gestión", "portátil", "administración", "erp", "back office", "etiquetas", "configuración"]
+      "etiquetas": ["oficina", "gestión", "portátil", "administración", "erp", "back office", "etiquetas", "configuración"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_005.jpg": {
       "descripcion": "Cajero ante el terminal de punto de venta en la caja de una tienda.",
-      "etiquetas": ["caja", "pos", "punto de venta", "cajero", "tienda", "retail", "cobro"]
+      "etiquetas": ["caja", "pos", "punto de venta", "cajero", "tienda", "retail", "cobro"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_006.jpg": {
       "descripcion": "Cajera sonriente toca la pantalla del terminal de punto de venta en una tienda de moda.",
-      "etiquetas": ["caja", "pos", "punto de venta", "pantalla táctil", "cajera", "tienda", "moda", "cobro", "venta"]
+      "etiquetas": ["caja", "pos", "punto de venta", "pantalla táctil", "cajera", "tienda", "moda", "cobro", "venta"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_007.jpg": {
       "descripcion": "Operaria de bodega revisa una tableta entre carros con cajas.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "tableta", "recepción", "despacho"]
+      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "tableta", "recepción", "despacho"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_008.jpg": {
       "descripcion": "Operario de bodega con una tableta junto a una mesa con un portátil y documentos.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "tableta", "despacho", "recepción"]
+      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "tableta", "despacho", "recepción"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_009.jpg": {
       "descripcion": "Operario de almacén con chaleco reflectante sonríe con un lector portátil junto a cajas etiquetadas, entre estanterías altas.",
-      "etiquetas": ["almacén", "bodega", "logística", "picking", "lector", "inventario", "wms", "despacho", "distribución", "centro de distribución"]
+      "etiquetas": ["almacén", "bodega", "logística", "picking", "lector", "inventario", "wms", "despacho", "distribución", "centro de distribución"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_010.jpg": {
       "descripcion": "Una clienta consulta una pantalla de autoservicio en una tienda de moda.",
-      "etiquetas": ["pantalla de consulta", "consulta de precios", "autoservicio", "tienda", "moda", "cliente", "catálogo", "omnicanal"]
+      "etiquetas": ["pantalla de consulta", "consulta de precios", "autoservicio", "tienda", "moda", "cliente", "catálogo", "omnicanal"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_011.jpg": {
       "descripcion": "Una clienta usa un kiosco de autoservicio con pantalla táctil vertical en una tienda.",
-      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "cliente", "tienda", "catálogo", "autoatención", "pedido"]
+      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "cliente", "tienda", "catálogo", "autoatención", "pedido"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_012.jpg": {
       "descripcion": "Vendedora con un móvil y un lector en el cinturón en el piso de venta de una tienda.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "vendedor", "tienda", "piso de venta", "inventario en tienda"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "vendedor", "tienda", "piso de venta", "inventario en tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_013.jpg": {
       "descripcion": "Vendedora muestra la pantalla de su móvil en una tienda de electrónica y hogar.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "vendedor", "tienda", "electrónica", "hogar"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "vendedor", "tienda", "electrónica", "hogar"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_014.jpg": {
       "descripcion": "Un ejecutivo consulta una tableta en una sala de exhibición de materiales, con otro hombre al fondo.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "tableta", "asesoría", "cotización", "catálogo"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "tableta", "asesoría", "cotización", "catálogo"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_015.jpg": {
       "descripcion": "Una mujer muestra una tableta con «Promociones avanzadas» junto a un cartel con tipos de promoción.",
-      "etiquetas": ["promociones", "promoción", "promociones avanzadas", "descuentos", "ofertas", "3x2", "regalo", "fidelización", "campañas", "tableta"]
+      "etiquetas": ["promociones", "promoción", "promociones avanzadas", "descuentos", "ofertas", "3x2", "regalo", "fidelización", "campañas", "tableta"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_016.jpg": {
       "descripcion": "En una tienda moderna, una asesora en uniforme azul marino muestra los niveles del programa Membresías Lealtad (Silver, Gold y Diamond) en pantalla mientras una clienta revisa su sobre informativo y móvil.",
-      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"],
+      "ancho": 834,
+      "alto": 1244
     },
     "beneficios/beneficios_017.jpg": {
       "descripcion": "Cliente satisfecha muestra su tarjeta de membresía y beneficios digitales desde el móvil en una boutique moderna, destacando recompensas, niveles de lealtad y una experiencia de compra personalizada.",
-      "etiquetas": ["membresías", "fidelización", "retail"]
+      "etiquetas": ["membresías", "fidelización", "retail"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_001.jpg": {
       "descripcion": "Dos empleados revisan una tableta junto a carteles de 3x2 y 15 % de descuento.",
-      "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "precios", "campañas", "tienda", "tableta"]
+      "etiquetas": ["promociones", "promoción", "descuentos", "ofertas", "3x2", "precios", "campañas", "tienda", "tableta"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_002.jpg": {
       "descripcion": "Una pareja usa la pantalla táctil de un kiosco de autoservicio en una tienda de electrónica.",
-      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "clientes", "tienda", "electrónica", "autoatención"]
+      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "pantalla táctil", "clientes", "tienda", "electrónica", "autoatención"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_004.jpg": {
       "descripcion": "Un hombre y una mujer revisan un portátil; al fondo, una pantalla con gráficos de ventas.",
-      "etiquetas": ["analítica", "reportes", "indicadores", "bi", "inteligencia de negocios", "tablero", "dashboard", "oficina", "portátil", "gestión", "ventas"]
+      "etiquetas": ["analítica", "reportes", "indicadores", "bi", "inteligencia de negocios", "tablero", "dashboard", "oficina", "portátil", "gestión", "ventas"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_005.jpg": {
       "descripcion": "Una mujer con tableta conversa con un operario con casco y chaleco en un patio de materiales.",
-      "etiquetas": ["construcción", "materiales", "obra", "patio", "bodega", "logística", "despacho", "tableta", "ferretería", "seguridad"]
+      "etiquetas": ["construcción", "materiales", "obra", "patio", "bodega", "logística", "despacho", "tableta", "ferretería", "seguridad"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_006.jpg": {
       "descripcion": "Dos operarios revisan una tableta y un lector portátil en una bodega con cajas.",
-      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "tableta", "lector"]
+      "etiquetas": ["bodega", "almacén", "logística", "inventario", "wms", "recepción", "despacho", "tableta", "lector"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_007.jpg": {
       "descripcion": "Dos ejecutivos revisan una tableta junto a una mesa con catálogos en una sala de exhibición de materiales.",
-      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "tableta", "catálogo", "asesoría", "cotización"]
+      "etiquetas": ["sala de exhibición", "showroom", "materiales", "acabados", "construcción", "tableta", "catálogo", "asesoría", "cotización"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_008.jpg": {
       "descripcion": "Vendedora con un móvil atiende a una clienta en una tienda de moda.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "tienda", "moda", "cliente", "vendedor", "piso de venta"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "tienda", "moda", "cliente", "vendedor", "piso de venta"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_009.jpg": {
       "descripcion": "Vendedora muestra su móvil a una clienta sonriente en una tienda de moda.",
-      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "cliente", "tienda", "moda", "asesoría", "experiencia de compra"]
+      "etiquetas": ["venta asistida", "móvil", "movilidad", "app", "cliente", "tienda", "moda", "asesoría", "experiencia de compra"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_010.jpg": {
       "descripcion": "Una pareja consulta una pantalla de autoservicio en una tienda de moda.",
-      "etiquetas": ["pantalla de consulta", "consulta de precios", "autoservicio", "tienda", "moda", "clientes", "catálogo", "omnicanal"]
+      "etiquetas": ["pantalla de consulta", "consulta de precios", "autoservicio", "tienda", "moda", "clientes", "catálogo", "omnicanal"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_011.jpg": {
       "descripcion": "Una clienta recoge el ticket que acaba de imprimir el kiosco de autoservicio de mostrador, tras hacer su pedido en la pantalla táctil.",
-      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "autoatención", "pantalla táctil", "pedido", "ticket", "impresora de tickets", "cliente", "cafetería", "tienda"]
+      "etiquetas": ["kiosco", "kiosko", "kiosco digital", "autoservicio", "autoatención", "pantalla táctil", "pedido", "ticket", "impresora de tickets", "cliente", "cafetería", "tienda"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_013.jpg": {
       "descripcion": "Dos operarios con chaleco revisan una tableta junto a cajas en un almacén de estanterías altas.",
-      "etiquetas": ["almacén", "bodega", "logística", "picking", "inventario", "wms", "tableta", "distribución", "centro de distribución"]
+      "etiquetas": ["almacén", "bodega", "logística", "picking", "inventario", "wms", "tableta", "distribución", "centro de distribución"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_015.jpg": {
       "descripcion": "Un hombre entrega una tarjeta a una mujer en una boutique.",
-      "etiquetas": ["tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente", "tienda", "boutique"]
+      "etiquetas": ["tarjeta", "tarjetas", "tarjeta de regalo", "gift card", "fidelización", "lealtad", "cliente", "tienda", "boutique"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_016.jpg": {
       "descripcion": "Una asesora de tienda ayuda a una cliente a revisar su membresía y beneficios desde el móvil en un entorno retail moderno, destacando una atención personalizada y una experiencia de fidelización ágil y cercana.",
-      "etiquetas": ["membresías", "fidelización", "retail"]
+      "etiquetas": ["membresías", "fidelización", "retail"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_017.jpg": {
       "descripcion": "En una tienda moderna, un asesor en uniforme azul marino atiende en el mostrador a un cliente revisando los niveles del programa Membresías Lealtad, mientras a la izquierda otro asesor muestra beneficios VIP a una compradora.",
-      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"]
+      "etiquetas": ["membresías lealtad", "fidelización de clientes", "retail moderno"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_018.jpg": {
       "descripcion": "En la caja de una tienda de moda, la cajera escanea un producto mientras el cliente acerca el móvil al datáfono para pagar; se ven la pantalla del punto de venta y la impresora de tickets.",
-      "etiquetas": ["punto de venta", "pos", "caja", "cobro", "pago móvil", "escáner", "impresora de tickets", "datáfono", "tienda", "moda", "cliente"]
+      "etiquetas": ["punto de venta", "pos", "caja", "cobro", "pago móvil", "escáner", "impresora de tickets", "datáfono", "tienda", "moda", "cliente"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_018.jpg": {
       "descripcion": "Una vendedora visita una ferretería y muestra al dueño el catálogo en una tableta mientras preparan un pedido sobre el mostrador.",
-      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "catálogo", "pedido", "cotización", "ferretería", "distribución", "cliente"]
+      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "catálogo", "pedido", "cotización", "ferretería", "distribución", "cliente"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_018.jpg": {
       "descripcion": "En la bodega de un distribuidor, la vendedora con tableta recorre las estanterías con el cliente, que anota lo que necesita.",
-      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "pedido", "bodega", "distribución", "inventario", "cliente"]
+      "etiquetas": ["ventas móviles", "vendedor", "visita comercial", "preventa", "tableta", "pedido", "bodega", "distribución", "inventario", "cliente"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_018.jpg": {
       "descripcion": "Vendedora de ruta, de pie a la entrada del negocio de un cliente, revisa en la tableta un pedido confirmado; al fondo, su furgoneta.",
-      "etiquetas": ["ventas móviles", "vendedor", "vendedor de ruta", "preventa", "tableta", "pedido", "movilidad", "visita comercial"]
+      "etiquetas": ["ventas móviles", "vendedor", "vendedor de ruta", "preventa", "tableta", "pedido", "movilidad", "visita comercial"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_019.jpg": {
       "descripcion": "Primer plano de una vendedora que muestra la tableta a un cliente sobre un escritorio para confirmar el pedido.",
-      "etiquetas": ["ventas móviles", "vendedor", "tableta", "pedido", "confirmación de pedido", "visita comercial", "cliente"]
+      "etiquetas": ["ventas móviles", "vendedor", "tableta", "pedido", "confirmación de pedido", "visita comercial", "cliente"],
+      "ancho": 817,
+      "alto": 459
     },
     "banda/banda_019.jpg": {
       "descripcion": "Zona de cajas de un supermercado con varios clientes pagando; en primer plano, una clienta paga con el monedero desde el móvil.",
-      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "cajas", "supermercado", "cobro", "cliente"]
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "cajas", "supermercado", "cobro", "cliente"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_019.jpg": {
       "descripcion": "Clienta con bolsas de compra mira sonriente en el móvil el saldo que acaba de acumular, en el pasillo de un supermercado.",
-      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "fidelización", "app", "móvil", "cliente", "supermercado"]
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "fidelización", "app", "móvil", "cliente", "supermercado"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_020.jpg": {
       "descripcion": "Primer plano de un móvil con la pantalla del monedero electrónico junto a un datáfono, sobre el mostrador de un supermercado.",
-      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "datáfono", "pago sin contacto", "cobro"]
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "datáfono", "pago sin contacto", "cobro"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_020.jpg": {
       "descripcion": "Una asesora consulta en la tableta la ficha de una clienta mientras la atiende en el mostrador de una tienda de moda y accesorios.",
-      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "venta asistida", "asesoría", "tableta", "tienda", "moda", "cliente"]
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "venta asistida", "asesoría", "tableta", "tienda", "moda", "cliente"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_020.jpg": {
       "descripcion": "Equipo comercial junto a la tienda revisa en dos monitores el embudo de oportunidades y el seguimiento de clientes.",
-      "etiquetas": ["advanced crm", "crm", "embudo de ventas", "oportunidades", "seguimiento de clientes", "equipo comercial", "oficina", "gestión de clientes"]
+      "etiquetas": ["advanced crm", "crm", "embudo de ventas", "oportunidades", "seguimiento de clientes", "equipo comercial", "oficina", "gestión de clientes"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_020.jpg": {
       "descripcion": "Asesora de pie en el piso de venta de una tienda de moda, consultando en la tableta el perfil de un cliente.",
-      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "asesoría", "venta asistida", "tableta", "tienda", "moda"]
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "asesoría", "venta asistida", "tableta", "tienda", "moda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_021.jpg": {
       "descripcion": "Dos asesores revisan en un portátil la ficha de una clienta, con su historial de compras y la agenda de seguimiento.",
-      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "seguimiento de clientes", "agenda", "portátil", "asesoría"]
+      "etiquetas": ["advanced crm", "crm", "ficha de cliente", "historial de compras", "seguimiento de clientes", "agenda", "portátil", "asesoría"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_021.jpg": {
       "descripcion": "Una clienta en su escritorio descarga su factura en el portátil con el ticket de compra en la mano.",
-      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "facturación", "ticket", "portátil", "cliente", "oficina"]
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "facturación", "ticket", "portátil", "cliente", "oficina"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_021.jpg": {
       "descripcion": "Una clienta sale de la caja de una tienda mostrando su ticket con código QR para autofacturar, sin esperar en la fila.",
-      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "caja", "tienda", "cliente"]
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "caja", "tienda", "cliente"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_021.jpg": {
       "descripcion": "Clienta de pie en una tienda escanea con el móvil el código QR de su ticket para generar la factura.",
-      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "cliente", "tienda"]
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "cliente", "tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_022.jpg": {
       "descripcion": "Primer plano del móvil con la factura generada junto al ticket con código QR, sobre el mostrador de una tienda.",
-      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "facturación"]
+      "etiquetas": ["portal de autofacturación", "autofacturación", "factura electrónica", "código qr", "ticket", "móvil", "facturación"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_022.jpg": {
       "descripcion": "En la oficina central, dos directivos revisan en una pantalla grande el mapa de la red de tiendas y los indicadores de cada franquicia.",
-      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "cadena", "oficina central", "indicadores", "tablero", "dirección"]
+      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "cadena", "oficina central", "indicadores", "tablero", "dirección"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_022.jpg": {
       "descripcion": "Oficina central con un equipo frente a varios monitores que coordina el mapa de sucursales, el catálogo, los precios y las promociones de toda la red.",
-      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "oficina central", "precios", "promociones", "catálogo", "equipo"]
+      "etiquetas": ["administrador de franquicias", "franquicias", "red de tiendas", "sucursales", "oficina central", "precios", "promociones", "catálogo", "equipo"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_022.jpg": {
       "descripcion": "Supervisora de franquicias con tableta a la entrada de una tienda de la cadena, revisando el estado de esa sucursal.",
-      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "cadena", "tableta", "tienda"]
+      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "cadena", "tableta", "tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_023.jpg": {
       "descripcion": "El supervisor de la cadena y la encargada de una franquicia revisan juntos la tableta en el mostrador de la tienda.",
-      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "encargada de tienda", "tableta", "tienda"]
+      "etiquetas": ["administrador de franquicias", "franquicias", "supervisión", "sucursal", "encargada de tienda", "tableta", "tienda"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_023.jpg": {
       "descripcion": "Una clienta compra desde el móvil en la tienda online, sentada en un sofá; al fondo, la tienda física de la misma marca.",
-      "etiquetas": ["e-commerce apis ready", "e-commerce", "comercio electrónico", "tienda online", "omnicanal", "compra en línea", "móvil", "cliente", "moda"]
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "comercio electrónico", "tienda online", "omnicanal", "compra en línea", "móvil", "cliente", "moda"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_023.jpg": {
       "descripcion": "Zona de preparación de pedidos web en la trastienda: una operaria empaca los pedidos online junto a la impresora de etiquetas de envío.",
-      "etiquetas": ["e-commerce apis ready", "e-commerce", "pedidos online", "preparación de pedidos", "empaque", "etiquetas de envío", "logística", "bodega", "despacho"]
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "pedidos online", "preparación de pedidos", "empaque", "etiquetas de envío", "logística", "bodega", "despacho"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_023.jpg": {
       "descripcion": "Una clienta recoge en el mostrador de la tienda el pedido que compró en línea.",
-      "etiquetas": ["e-commerce apis ready", "e-commerce", "click and collect", "recogida en tienda", "omnicanal", "pedidos online", "entrega", "cliente", "tienda"]
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "click and collect", "recogida en tienda", "omnicanal", "pedidos online", "entrega", "cliente", "tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_024.jpg": {
       "descripcion": "Portátil con la tienda online abierta en la ficha de unos audífonos, con el producto real al lado sobre el escritorio.",
-      "etiquetas": ["e-commerce apis ready", "e-commerce", "tienda online", "catálogo", "ficha de producto", "carrito", "portátil", "compra en línea"]
+      "etiquetas": ["e-commerce apis ready", "e-commerce", "tienda online", "catálogo", "ficha de producto", "carrito", "portátil", "compra en línea"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_024.jpg": {
       "descripcion": "Equipo de TI en una sala de reuniones revisa en una pantalla grande el esquema de los sistemas conectados a la plataforma central.",
-      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "sistemas conectados", "ti", "tecnología", "arquitectura", "equipo"]
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "sistemas conectados", "ti", "tecnología", "arquitectura", "equipo"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_024.jpg": {
       "descripcion": "Área técnica con varios puestos y monitores que muestran código, flujos de datos entre sistemas y el estado de las integraciones.",
-      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "flujos de datos", "desarrollo", "ti", "monitoreo", "tecnología"]
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "flujos de datos", "desarrollo", "ti", "monitoreo", "tecnología"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_024.jpg": {
       "descripcion": "Desarrolladora de pie explica en una pantalla el diagrama de una integración, con su portátil abierto en la mesa.",
-      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "desarrollo", "desarrolladora", "ti", "tecnología"]
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "desarrollo", "desarrolladora", "ti", "tecnología"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_025.jpg": {
       "descripcion": "Dos técnicos revisan en un portátil la respuesta correcta de una llamada a una API.",
-      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "pruebas", "desarrollo", "ti", "portátil"]
+      "etiquetas": ["motor de apis", "integración externa", "apis", "integraciones", "pruebas", "desarrollo", "ti", "portátil"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_025.jpg": {
       "descripcion": "Un vendedor en el piso de una tienda de moda mira en el móvil el avance de su meta del día; al fondo, clientes comprando.",
-      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedor", "móvil", "app", "tienda", "moda"]
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedor", "móvil", "app", "tienda", "moda"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_025.jpg": {
       "descripcion": "Al inicio de la jornada, el equipo de vendedores revisa en sus móviles las metas del día junto al mostrador de la tienda.",
-      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "equipo de ventas", "vendedores", "móvil", "app", "tienda"]
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "equipo de ventas", "vendedores", "móvil", "app", "tienda"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_025.jpg": {
       "descripcion": "Vendedora sonriente mira en el móvil su meta cumplida, en el piso de venta de una tienda de moda.",
-      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedora", "móvil", "app", "tienda"]
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "metas de venta", "comisiones", "vendedora", "móvil", "app", "tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "portada/portada_026.jpg": {
       "descripcion": "Gerente de tienda consulta en la tableta los indicadores de su sucursal mientras la tienda atiende a sus clientes al fondo.",
-      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda", "moda"]
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda", "moda"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_026.jpg": {
       "descripcion": "El gerente y su supervisora revisan juntos la tableta junto a la caja de una tienda de moda, mientras el equipo atiende a los clientes al fondo.",
-      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "supervisión", "tablero", "indicadores", "inventario", "tienda"]
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "supervisión", "tablero", "indicadores", "inventario", "tienda"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_026.jpg": {
       "descripcion": "Gerente de tienda de pie en un pasillo, revisando en la tableta los indicadores de su sucursal.",
-      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda"]
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "indicadores", "tablero", "sucursal", "tableta", "tienda"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_027.jpg": {
       "descripcion": "Gerente y vendedora comentan en la tableta los resultados del día, en el mostrador de la tienda.",
-      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "resultados", "indicadores", "tableta", "tienda", "equipo"]
+      "etiquetas": ["bi mi tienda", "inteligencia de negocios", "bi", "gerente de tienda", "resultados", "indicadores", "tableta", "tienda", "equipo"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_027.jpg": {
       "descripcion": "Directivos en una sala de juntas frente a una pantalla grande con los tableros de toda la empresa: ventas por región y tendencias.",
-      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "tablero", "indicadores", "ventas por región", "sala de juntas"]
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "tablero", "indicadores", "ventas por región", "sala de juntas"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_027.jpg": {
       "descripcion": "Reunión de dirección con portátiles en torno a una mesa y una pantalla con gráficos consolidados de la empresa.",
-      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "reunión", "gráficos", "resultados consolidados", "sala de juntas"]
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "reunión", "gráficos", "resultados consolidados", "sala de juntas"],
+      "ancho": 2125,
+      "alto": 783
     },
     "beneficios/beneficios_027.jpg": {
       "descripcion": "Directora de pie en una oficina ejecutiva, revisando en la tableta los indicadores de toda la empresa.",
-      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directora", "indicadores", "tableta", "oficina"]
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directora", "indicadores", "tableta", "oficina"],
+      "ancho": 834,
+      "alto": 1244
     },
     "pie/pie_028.jpg": {
       "descripcion": "Dos directivos comentan en una tableta los resultados de la empresa, en una oficina ejecutiva.",
-      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "resultados", "tableta", "oficina"]
+      "etiquetas": ["bi mi empresa", "inteligencia de negocios", "bi", "dirección", "directivos", "resultados", "tableta", "oficina"],
+      "ancho": 817,
+      "alto": 459
     },
     "portada/portada_019.jpg": {
       "descripcion": "En la caja de un supermercado, una clienta consulta en el móvil su saldo a favor mientras la cajera de uniforme azul marino lo aplica en el punto de venta; al fondo, frutas y pasillos.",
-      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "caja", "pos", "punto de venta", "supermercado", "fidelización", "cliente"]
+      "etiquetas": ["monedero electrónico", "saldo a favor", "billetera digital", "pago móvil", "caja", "pos", "punto de venta", "supermercado", "fidelización", "cliente"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "portada/portada_015.jpg": {
       "descripcion": "Un gerente comercial y una encargada de tienda revisan en una tableta una campaña junto a una exhibición de pinturas con cabeceras promocionales de iconos.",
-      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "precios", "tableta", "tienda", "pinturas", "ferretería"]
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "precios", "tableta", "tienda", "pinturas", "ferretería"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_015.jpg": {
       "descripcion": "En una tienda de hogar, una gerente y un encargado revisan en la tableta las promociones, entre estanterías con cabeceras de colores con iconos de regalo, etiqueta y estrella.",
-      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "regalo", "tableta", "tienda", "hogar", "decoración"]
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "ofertas", "campañas", "regalo", "tableta", "tienda", "hogar", "decoración"],
+      "ancho": 2125,
+      "alto": 783
     },
     "portada/portada_003.jpg": {
       "descripcion": "Una jefa de compras y un analista revisan en un monitor el catálogo de prendas y sus ventas, con muestras de tela, lector de códigos e impresora de etiquetas; al fondo, el almacén.",
-      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "almacén"]
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "almacén"],
+      "ancho": 2550,
+      "alto": 1342
     },
     "banda/banda_003.jpg": {
       "descripcion": "Área de planificación de una cadena de moda: un analista y una jefa de compras comentan el catálogo y las ventas en dos monitores mientras una empleada ordena prendas.",
-      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "surtido"]
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "inventario", "back office", "oficina", "moda", "surtido"],
+      "ancho": 2125,
+      "alto": 783
     },
     "pie/pie_003.jpg": {
       "descripcion": "Una jefa de compras señala en el monitor el catálogo de prendas a un analista, con muestras de tela, lector de códigos e impresora de etiquetas sobre la mesa.",
-      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "back office", "oficina", "moda"]
+      "etiquetas": ["erp avanzado", "erp", "planificación", "catálogo", "productos", "compras", "back office", "oficina", "moda"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_012.jpg": {
       "descripcion": "En el muelle de recepción de una bodega, una operaria escanea la etiqueta de una caja mientras su compañero registra la entrada en la tableta; al fondo, un camión.",
-      "etiquetas": ["control de almacenes wms", "wms", "bodega", "almacén", "recepción", "recepción de mercancía", "muelle", "escáner", "inventario", "logística"]
+      "etiquetas": ["control de almacenes wms", "wms", "bodega", "almacén", "recepción", "recepción de mercancía", "muelle", "escáner", "inventario", "logística"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_014.jpg": {
       "descripcion": "En la caja de una tienda de moda, la cajera aplica la promoción a una clienta y le entrega su prenda; sobre el mostrador, una tarjeta con iconos de descuento y regalo.",
-      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "regalo", "caja", "pos", "cobro", "tienda", "moda", "cliente"]
+      "etiquetas": ["promociones avanzadas", "promociones", "promoción", "descuentos", "regalo", "caja", "pos", "cobro", "tienda", "moda", "cliente"],
+      "ancho": 817,
+      "alto": 459
     },
     "pie/pie_026.jpg": {
       "descripcion": "Móvil apoyado en el mostrador de una tienda de moda con el tablero de ventas del vendedor: ventas del día, pedidos, tendencia de la semana y productos más vendidos.",
-      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "tablero", "ventas del día", "indicadores", "productos más vendidos", "vendedor", "móvil", "app", "tienda", "moda"]
+      "etiquetas": ["bi mis ventas", "inteligencia de negocios", "bi", "tablero", "ventas del día", "indicadores", "productos más vendidos", "vendedor", "móvil", "app", "tienda", "moda"],
+      "ancho": 817,
+      "alto": 459
     }
   }
 }
